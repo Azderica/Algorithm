@@ -10,3 +10,5 @@
 ### Feb.
 - 02.09) baekjoon 2156 
 - 02.10) baekjoon 1912
+- 02.11) baekjoon 10250(Incomplete)
+- 02.12) baekjoon 10250
