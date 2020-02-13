@@ -23,8 +23,8 @@ int main(void) {
 		scanf("%s", &map[i]);
 
 
-	for (int i = 0; i < N - 8; i++)
-		for (int j = 0; j < M - 8; j++) {
+	for (int i = 0; i <= N - 8; i++)
+		for (int j = 0; j <= M - 8; j++) {
 			count_1 = 0;
 			count_2 = 0;
 			for (int map_i = i; map_i < i + 8; map_i++)
