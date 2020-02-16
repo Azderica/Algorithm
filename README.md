@@ -15,3 +15,4 @@
 - 02.13) baekjoon 1018
 - 02.14) baekjoon 1181
 - 02.15) baekjoon 2609, 11650
+- 02.16) departure(from South Korea, to Hungary)
