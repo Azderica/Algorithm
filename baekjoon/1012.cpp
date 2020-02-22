@@ -8,7 +8,7 @@ int dx[4] = { 0, 0, 1, -1 };
 
 int M, N, K;
 int Map[50][50] = { 0, };
-bool visitied[50][50] = { false, };
+bool visited[50][50] = { false, };
 
 void DFS(int y, int x) {
 	for (int i = 0; i < 4; i++) {
@@ -17,8 +17,8 @@ void DFS(int y, int x) {
 
 		if (next_y < 0 || next_y >= N || next_x < 0 || next_x >= M)
 			continue;
-		if (Map[next_y][next_x] && !visitied[next_y][next_x]) {
-			visitied[next_y][next_x] = true;
+		if (Map[next_y][next_x] && !visited[next_y][next_x]) {
+			visited[next_y][next_x] = true;
 			DFS(next_y, next_x);
 		}
 	}
@@ -35,7 +35,7 @@ int main() {
 		cin >> M >> N >> K;
 
 		memset(Map, 0, sizeof(Map));	
-		memset(visitied, 0, sizeof(visitied));
+		memset(visited, 0, sizeof(visited));
 		for (int i = 0; i < K; i++) {
 			scanf("%d %d", &x, &y);
 			Map[y][x] = 1;
@@ -43,9 +43,9 @@ int main() {
 
 		for (int i = 0; i < N; i++)
 			for (int j = 0; j < M; j++)
-				if (Map[i][j] && !visitied[i][j]) {
+				if (Map[i][j] && !visited[i][j]) {
 					ans++;
-					visitied[i][j] = true;
+					visited[i][j] = true;
 					DFS(i, j);
 				}
 
