@@ -8,6 +8,10 @@
 ## Goal in 2020.
 
 ### Feb.
+<details>
+<summary>Open the log</summary>
+<div markdown="1">
+  
 - 02.09) baekjoon 2156 
 - 02.10) baekjoon 1912
 - 02.11) baekjoon 10250(Incomplete)
@@ -29,6 +33,9 @@
 - 02.27) baekjoon 9465, 15652, 15657, 15663, 15666
 - 02.28) baekjoon 5639, 9205
 - 02.29) baekjoon 1043, 1916
+
+</div>
+</details>
 
 ### Mar.
 - 03.01) baekjoon 12851, 14502, 16953
