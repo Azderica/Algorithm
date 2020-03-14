@@ -51,3 +51,4 @@
 - 03.11) baekjoon 1405, 1600, 1759
 - 03.12) baekjoon 10800
 - 03.13) baekjoon 1533
+- 03.14) departure(from Poland, to South Korea)
