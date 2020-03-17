@@ -54,4 +54,4 @@
 - 03.14) departure(from Poland, to Qatar)
 - 03.15) departure(from Qatar, to South Korea)
 - 03.16) baekjoon 1647, 4386
-
+- 03.17) programmers 60063(incompleted)
