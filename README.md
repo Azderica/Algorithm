@@ -56,8 +56,9 @@
 - 03.16) baekjoon 1647, 4386
 - 03.17) programmers 60063(incompleted)
 - 03.18) baekjoon 17136, programmers 60057(카카오공채, 문자열압축)
-- 03.19) ?
-- 03.20) ?
+- 03.19) studying...
+- 03.20) other projects
 - 03.21) baekjoon 1525
 - 03.22) programmers 60063
 - 03.23) baekjoon 17406
+- 03.24) baekjoon 17472, programmers 60061(기둥과 보, imcomplete)
