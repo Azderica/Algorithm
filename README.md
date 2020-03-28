@@ -38,6 +38,9 @@
 </details>
 
 ### Mar.
+<details>
+<summary>Open the log</summary>
+<div markdown="1">
 - 03.01) baekjoon 12851, 14502, 16953
 - 03.02) baekjoon 2448, 17070
 - 03.03) baekjoon 2096, 2638, 10830, 17144
@@ -66,3 +69,6 @@
 - 03.26) baekjoon 12094, 15683
 - 03.27) programmers 60058(괄호변환)
 - 03.28) baekjoon 15684, 17140
+
+</div>
+</details>
