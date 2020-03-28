@@ -64,3 +64,5 @@
 - 03.24) baekjoon 17472, programmers 60061(기둥과 보, imcomplete)
 - 03.25) other projects, baekjoon 15683(incomplete)
 - 03.26) baekjoon 12094, 15683
+- 03.27) programmers 60058(괄호변환)
+- 03.28) baekjoon 15684, 17140
