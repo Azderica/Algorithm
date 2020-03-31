@@ -70,6 +70,9 @@
 - 03.26) baekjoon 12094, 15683
 - 03.27) programmers 60058(괄호변환)
 - 03.28) baekjoon 15684, 17140
+- 03.29) other projects
+- 03.30) baekjoon 17837
+- 03.31) baekjoon 17825(incomplete)
 
 </div>
 </details>
