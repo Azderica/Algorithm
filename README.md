@@ -7,7 +7,7 @@
 
 ## Goal in 2020.
 
-### Feb.
+### February.
 <details>
 <summary>Open the log</summary>
 <div markdown="1">
@@ -37,7 +37,7 @@
 </div>
 </details>
 
-### Mar.
+### March.
 <details>
 <summary>Open the log</summary>
 <div markdown="1">
@@ -73,6 +73,17 @@
 - 03.29) other projects
 - 03.30) baekjoon 17837
 - 03.31) baekjoon 17825(incomplete)
+
+</div>
+</details>
+
+
+### April.
+<details>
+<summary>Open the log</summary>
+<div markdown="1">
+  
+- 04.01) baekjoon 16638
 
 </div>
 </details>
