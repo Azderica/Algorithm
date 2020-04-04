@@ -84,8 +84,9 @@
 <div markdown="1">
   
 - 04.01) baekjoon 16638
-- 04.02)
+- 04.02) ?
 - 04.03) other project
+- 04.04) baekjoon 17825, programmers 1830(x), 42894, 43104, 43165, swexpert 8352(x)
 
 </div>
 </details>
