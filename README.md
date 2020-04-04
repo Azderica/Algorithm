@@ -7,7 +7,7 @@
 
 ## Goal in 2020.
 
-### Feb.
+### February.
 <details>
 <summary>Open the log</summary>
 <div markdown="1">
@@ -37,7 +37,11 @@
 </div>
 </details>
 
-### Mar.
+### March.
+<details>
+<summary>Open the log</summary>
+<div markdown="1">
+  
 - 03.01) baekjoon 12851, 14502, 16953
 - 03.02) baekjoon 2448, 17070
 - 03.03) baekjoon 2096, 2638, 10830, 17144
@@ -66,3 +70,23 @@
 - 03.26) baekjoon 12094, 15683
 - 03.27) programmers 60058(괄호변환)
 - 03.28) baekjoon 15684, 17140
+- 03.29) other projects
+- 03.30) baekjoon 17837
+- 03.31) baekjoon 17825(incomplete)
+
+</div>
+</details>
+
+
+### April.
+<details>
+<summary>Open the log</summary>
+<div markdown="1">
+  
+- 04.01) baekjoon 16638
+- 04.02) ?
+- 04.03) other project
+- 04.04) baekjoon 17825, programmers 1830(x), 42894, 43104, 43165, swexpert 8352(x)
+
+</div>
+</details>
