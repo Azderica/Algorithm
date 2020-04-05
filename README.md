@@ -87,6 +87,7 @@
 - 04.02) ?
 - 04.03) other project
 - 04.04) baekjoon 17825, programmers 1830(x), 42894, 43104, 43165, swexpert 8352(x)
+- 04.05) LINE Coding Test
 
 </div>
 </details>
