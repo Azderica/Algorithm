@@ -92,6 +92,7 @@
 - 04.07) CS study
 - 04.08) Cover Letter
 - 04.09) Cover Letter
+- 04.10) baekjoon 14503
 
 </div>
 </details>
