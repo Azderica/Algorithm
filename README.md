@@ -93,6 +93,8 @@
 - 04.08) Cover Letter
 - 04.09) Cover Letter
 - 04.10) baekjoon 14503
+- 04.11) Cover Letter
+- 04.12) Cover Letter
 
 </div>
 </details>
