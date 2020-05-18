@@ -112,6 +112,8 @@
 - 05.10) change C++ -> JAVA
 - 05.16) 우아한테크 코테 2차
 - 05.17) hackday development
+- 05.18) hackday development
+
 
 </div>
 </details>
