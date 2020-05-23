@@ -114,6 +114,8 @@
 - 05.17) hackday development
 - 05.18) hackday development
 
+- 05.23) sk 코테, 썸머인턴 코테
+
 
 </div>
 </details>
